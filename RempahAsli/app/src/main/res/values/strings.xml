@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RempahAsli</string>
+    <string name="about">About</string>
+    <string name="rempah_name">Nama Rempah - Rempah</string>
+    <string name="from">Definisi</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="author">Alif Nur Khafif</string>
+    <string name="email">alifkhafif@gmail.com</string>
+    <string name="nameRempah">Pala</string>
+    <string name="detailRempah">Detail</string>
+</resources>

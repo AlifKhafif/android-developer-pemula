@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Lucky Mahrus</string>
+    <string name="menu_about_title">About Me</string>
+    <string name="author_name">Lukman Hakim Mahrus</string>
+    <string name="author_email">mahrus.lukmanhakim@gmail.com</string>
+    <string name="author_phone">+628111445854</string>
+    <string name="page_title_about">About Author</string>
+    <string name="txt_tv_project_url">Project URL</string>
+    <string name="txt_tv_project_name">Project Name</string>
+    <string name="project_source">Click here to view\nthis app sources on GitHub</string>
+
+    <string name="tv_project0_project_name">U-Reporting Tools</string>
+    <string name="tv_project1_project_name">CTOUCH Partner Portal</string>
+    <string name="tv_project2_project_name">ZorgBeuningan 0-4</string>
+    <string name="tv_project3_project_name">ZorgBeuningan 4-12</string>
+    <string name="tv_project4_project_name">Argos</string>
+    <string name="tv_project5_project_name">Phimex</string>
+    <string name="tv_project6_project_name">Lollypop PreSchool</string>
+    <string name="tv_project7_project_name">Sekolah Lentera Kasih</string>
+    <string name="tv_project8_project_name">New Telaga Niaga</string>
+    <string name="tv_project9_project_name">Soto Afung</string>
+
+
+    <string name="tv_project0_url">https://reporting-u-campaigns.nl</string>
+    <string name="tv_project1_url">https://partners.ctouch.eu</string>
+    <string name="tv_project2_url">https://0-4.zorgbeuningen.nl</string>
+    <string name="tv_project3_url">https://4-12.zorgbeuningen.nl</string>
+    <string name="tv_project4_url">https://argos.nl</string>
+    <string name="tv_project5_url">https://phimex.nl</string>
+    <string name="tv_project6_url">https://lollypoppreschoolmenteng.com</string>
+    <string name="tv_project7_url">http://lenterakasih.org</string>
+    <string name="tv_project8_url">https://newtelaganiaga.com</string>
+    <string name="tv_project9_url">https://sotoafung.com</string>
+
+
+    <string name="tv_project0_description">Aplikasi ini digunakan untuk melaporkan perkembangan project kepada client, tentang apa saja yang sudah dilakukan pada bulan sebelumnya, apa yg sedang dilakukan, dan perencanaan untuk bulan berikutnya.</string>
+    <string name="tv_project1_description">Aplikasi ini digunakan untuk memberikan support kepada reseller/agen penjualan, dalam hal pemesanan produk, jumlah stok, daftar harga, file-file yg mendukung pemasaran produk, firmware &amp; software.</string>
+    <string name="tv_project2_description">Aplikasi ini digunakan untuk memantau perkembangan peserta didik, dimana peserta didik adalah anak-anak yang berumur 0 tahun sampai dengan 4 tahun.</string>
+    <string name="tv_project3_description">Aplikasi ini digunakan untuk memantau perkembangan peserta didik, dimana peserta didik adalah anak-anak yang berumur 4 tahun sampai dengan 12 tahun.</string>
+    <string name="tv_project4_description">Aplikasi ini digunakan sebagai website profil perusahaan dan sebagai media pemasaran.</string>
+    <string name="tv_project5_description">Aplikasi ini digunakan sebagai website profil perusahaan dan sebagai media pemasaran. Dan sebagai sistem informasi logistik/ekspedisi wilayah Belanda dan Eropa.</string>
+    <string name="tv_project6_description">Aplikasi ini digunakan sebagai website profil sekolah dan sebagai media pemasaran.</string>
+    <string name="tv_project7_description">Aplikasi ini digunakan sebagai website profil sekolah dan sebagai media pemasaran.</string>
+    <string name="tv_project8_description">Aplikasi ini digunakan sebagai website profil perusahaan dan sebagai media pemasaran.</string>
+    <string name="tv_project9_description">Aplikasi ini digunakan sebagai website profil perusahaan dan sebagai media pemasaran.</string>
+
+    <string name="tv_project_client_title">Client</string>
+    <string name="tv_project0_client_name">U Digital &amp; Magnetic</string>
+    <string name="tv_project1_client_name">CTOUCH</string>
+    <string name="tv_project2_client_name">ZorgBeuningen</string>
+    <string name="tv_project3_client_name">ZorgBeuningen</string>
+    <string name="tv_project4_client_name">Argos</string>
+    <string name="tv_project5_client_name">Phimex</string>
+    <string name="tv_project6_client_name">Lollypop PreSchool Menteng</string>
+    <string name="tv_project7_client_name">Sekolah Lentera Kasih</string>
+    <string name="tv_project8_client_name">New Telaga Niaga</string>
+    <string name="tv_project9_client_name">Soto Afung</string>
+
+    <string name="tv_project_type_title">Project Type</string>
+    <string name="tv_project0_type_name">CRM</string>
+    <string name="tv_project1_type_name">CRM</string>
+    <string name="tv_project2_type_name">CRM</string>
+    <string name="tv_project3_type_name">CRM</string>
+    <string name="tv_project4_type_name">Company Profile</string>
+    <string name="tv_project5_type_name">Company Profile &amp; CRM</string>
+    <string name="tv_project6_type_name">Company Profile</string>
+    <string name="tv_project7_type_name">Company Profile</string>
+    <string name="tv_project8_type_name">Company Profile</string>
+    <string name="tv_project9_type_name">Company Profile</string>
+
+    <string name="tv_project_start_date_title">Started at</string>
+    <string name="tv_project0_start_date">October 2016</string>
+    <string name="tv_project1_start_date">April 2017</string>
+    <string name="tv_project2_start_date">September 2017</string>
+    <string name="tv_project3_start_date">September 2017</string>
+    <string name="tv_project4_start_date">June 2016</string>
+    <string name="tv_project5_start_date">August 2018</string>
+    <string name="tv_project6_start_date">December 2018</string>
+    <string name="tv_project7_start_date">November 2018</string>
+    <string name="tv_project8_start_date">July 2018</string>
+    <string name="tv_project9_start_date">August 2018</string>
+
+    <string name="tv_project_techspec_title">Technical Specification</string>
+    <string name="tv_project0_techspec">- PHP (CodeIgniter)\n- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)\n- MySQL</string>
+    <string name="tv_project1_techspec">- PHP (CodeIgniter)\n- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)\n- MySQL</string>
+    <string name="tv_project2_techspec">- PHP (CodeIgniter)\n- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)\n- MySQL</string>
+    <string name="tv_project3_techspec">- PHP (CodeIgniter)\n- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)\n- MySQL</string>
+    <string name="tv_project4_techspec">- PHP (WordPress)</string>
+    <string name="tv_project5_techspec">- PHP (WordPress &amp; CodeIgniter)\n- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)\n- MySQL</string>
+    <string name="tv_project6_techspec">- PHP (WordPress)</string>
+    <string name="tv_project7_techspec">- HTML5\n- CSS3 (Bootstrap)\n- Javascript (JQuery)</string>
+    <string name="tv_project8_techspec">- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)</string>
+    <string name="tv_project9_techspec">- HTML5\n- CSS3 (UIKit)\n- Javascript (JQuery)</string>
+
+</resources>
